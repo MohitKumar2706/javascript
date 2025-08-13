@@ -11,7 +11,7 @@
 
 
 // ! Template Literals
-/*
+
 
 let pencil= 20;
 let erasor=10;
@@ -22,7 +22,6 @@ console.log(final);
 let final2=`the final price is: ${pencil+erasor}rupees`;  //With template literals
 console.log(final2);
 
-*/
 
 // !operators
 
